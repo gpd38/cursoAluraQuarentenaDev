@@ -26,3 +26,5 @@ Aula|Dia
 - [Aula 08 - Contadores e Loops](https://www.youtube.com/watch?v=NFkehpp-Jlk&feature=emb_logo)
 - [Aula 09 - Inputs e retorno de funçõe](https://www.youtube.com/watch?v=p5wzR-VVdNs&feature=emb_logo)
 - [Aula 10 - Arrays, Desafios e o Certificado](https://www.youtube.com/watch?v=5yTQRs8vrlI&feature=emb_logo)
+- [Conversa com CTO da Magalu](https://www.youtube.com/watch?v=XS4yrO9us9w&feature=youtu.be&utm_campaign=alura__live_01_-_cto_magazineluiza&utm_medium=email&utm_source=RD+Station)
+- [Conversa com CTO do Nubank](https://www.youtube.com/watch?v=vBTy3A7eyKY&feature=youtu.be&utm_campaign=alura__live_02_-_gestao_de_pessoas_nubank_-_quarentenadev&utm_medium=email&utm_source=RD+Station)
