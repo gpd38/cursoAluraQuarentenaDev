@@ -28,4 +28,6 @@ Aula|Dia
 - [Aula 10 - Arrays, Desafios e o Certificado](https://www.youtube.com/watch?v=5yTQRs8vrlI&feature=emb_logo)
 - [Conversa com CTO da Magalu](https://www.youtube.com/watch?v=XS4yrO9us9w&feature=youtu.be&utm_campaign=alura__live_01_-_cto_magazineluiza&utm_medium=email&utm_source=RD+Station)
 - [Conversa com CTO do Nubank](https://www.youtube.com/watch?v=vBTy3A7eyKY&feature=youtu.be&utm_campaign=alura__live_02_-_gestao_de_pessoas_nubank_-_quarentenadev&utm_medium=email&utm_source=RD+Station)
+
+### Fórum
 - [Fórum de discussão - DiscordApp](https://discordapp.com/invite/DMyxFDj)
