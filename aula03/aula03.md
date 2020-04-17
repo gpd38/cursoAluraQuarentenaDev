@@ -8,13 +8,8 @@ Ex.: calcular sua idade em dias
 	  document.write("Não foi possivel calcular sua idade em dias com o valor informado! ");
 	}
 - Exercício de quebra de linha
-	Oi
-	como
-	você
-	está
-	pulando
-	linha
-	?
+	alert("Oi\ncomo\nvocê\nestá\npulando\nlinha\n?\n")
+	document.write("Oi<br>como<br>você<br>está<br>pulando<br>linha<br>?")
 - Exercício do combustível
 	velocidade = 80
 	tempo = 15
