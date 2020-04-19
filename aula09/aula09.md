@@ -1,2 +1,3 @@
 - Atualizando app de calculo de distância
-- Desafio: usar input ao invés de prompt
+- Utilizando inputs, formatar números
+- Desafio: usar input ao invés de prompt em alguns desafios anteriores
