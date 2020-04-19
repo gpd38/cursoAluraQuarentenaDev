@@ -1,6 +1,9 @@
 # Curso Alura QuarentenaDev
 Série de vídeo aulas da alura sobre javascript durante a quarentena do COVID-19
 
+### Codepen.io
+[Meu Codepen - gpd38](https://codepen.io/gpd38/pens/public?grid_type=list)
+
 ### Dias de publicação das aulas
 Aula|Dia
 ----|----
@@ -14,6 +17,20 @@ Aula|Dia
 08|08/04/20
 09|09/04/20
 10|10/04/20
+
+### Links dos metriais no alura
+Não se sabe se as aulas permanecerão por muito tempo no ar, mas enquanto estiverem o link estará disponível aqui !
+
+- [Material Aula01](https://www.alura.com.br/quarentenadev/aula01-javascript)
+- [Material Aula02](https://www.alura.com.br/quarentenadev/aula02-variaveis)
+- [Material Aula03](https://www.alura.com.br/quarentenadev/aula03-codepen)
+- [Material Aula04](https://www.alura.com.br/quarentenadev/aula04-aplicativo-de-transporte)
+- [Material Aula05](https://www.alura.com.br/quarentenadev/aula05-html-css)
+- [Material Aula06](https://www.alura.com.br/quarentenadev/aula06-verdadeiro-ou-falso)
+- [Material Aula07](https://www.alura.com.br/quarentenadev/aula07-evento-no-javascript)
+- [Material Aula08](https://www.alura.com.br/quarentenadev/aula08-laco-no-javascript)
+- [Material Aula09](https://www.alura.com.br/quarentenadev/aula09-inputs-e-retorno-de-funcao)
+- [Material Aula10](https://www.alura.com.br/quarentenadev/aula10-completando-o-certificado-e-curriculo)
 
 ### Links das vídeo aulas
 - [Aula 01 - Seu primeiro código](https://www.youtube.com/watch?v=wtbgwcMrkQg&feature=emb_logo)
@@ -32,5 +49,12 @@ Aula|Dia
 ### Fórum (Material/Geral/Dúvidas/Resultado)
 - [Fórum de discussão - DiscordApp](https://discordapp.com/invite/DMyxFDj)
 
-### Codepen.io
-[Meu Codepen](https://codepen.io/gpd38/pens/public?grid_type=list)
+### Links comentados durantes as aulas
+- [Desenvolvimento Web com HTML, CSS e JavaScript](https://www.caelum.com.br/apostila-html-css-javascript/)
+- [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+- [HTML: Linguagem de Marcação de Hipertexto](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+- [CSS básico](https://developer.mozilla.org/pt-BR/docs/Aprender/Getting_started_with_the_web/CSS_basico)
+- [Material sobre vscode](https://github.com/alura-cursos/projeto-codepen-local-quarentenadev)
+- [Input](https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element/input)
+- [Biblioteca](https://pt.wikipedia.org/wiki/Biblioteca_(computa%C3%A7%C3%A3o))
+- [Criando uma máscara de Telefone com Javascript](https://www.alura.com.br/artigos/criando-uma-mascara-de-telefone-com-javascript)
