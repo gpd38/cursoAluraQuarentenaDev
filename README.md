@@ -50,7 +50,6 @@ Não se sabe se as aulas permanecerão por muito tempo no ar, mas enquanto estiv
 - [Fórum de discussão - DiscordApp](https://discordapp.com/invite/DMyxFDj)
 
 ### Links comentados durantes as aulas
-- [Desenvolvimento Web com HTML, CSS e JavaScript](https://www.caelum.com.br/apostila-html-css-javascript/)
 - [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 - [HTML: Linguagem de Marcação de Hipertexto](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 - [CSS básico](https://developer.mozilla.org/pt-BR/docs/Aprender/Getting_started_with_the_web/CSS_basico)
@@ -58,3 +57,27 @@ Não se sabe se as aulas permanecerão por muito tempo no ar, mas enquanto estiv
 - [Input](https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element/input)
 - [Biblioteca](https://pt.wikipedia.org/wiki/Biblioteca_(computa%C3%A7%C3%A3o))
 - [Criando uma máscara de Telefone com Javascript](https://www.alura.com.br/artigos/criando-uma-mascara-de-telefone-com-javascript)
+- [Playlist com dicas de CSS para melhorar seu projeto](https://www.youtube.com/playlist?list=PLh2Y_pKOa4UfHbRqfiiI4uWik2MOKHRfL)
+- [Playlist respondendo dúvidas de iniciantes](https://www.youtube.com/playlist?list=PLh2Y_pKOa4UcBRWcWAEp4d4M7INLCec1f)
+- [Canal do Mário onde ele ensina muito código JavaScript](https://www.youtube.com/playlist?list=PLh2Y_pKOa4UfsZfAT5ylSsbcEjpguxoBI)
+- [Apostila de Desenvolvimento Web da Caelum](https://www.caelum.com.br/apostila-html-css-javascript/)
+
+### Informações sobre os palestrantes/participantes
+Paulo Silveira
+- [Twitter](https://twitter.com/paulo_caelum)
+- [Github](https://github.com/peas)
+- [Linkedin](https://www.linkedin.com/in/paulosilveira/)
+Mario Souto
+- [Twitter](https://twitter.com/omariosouto)
+- [Github](https://github.com/omariosouto)
+- [Linkedin](https://www.linkedin.com/in/omariosouto/)
+Vanessa Tonini
+- [Twitter](https://twitter.com/vanessametonini)
+- [Github](https://github.com/vanessametonini)
+- [Linkedin](https://www.linkedin.com/in/vanessametonini/)
+Artur Diniz
+- [Twitter](https://twitter.com/artdiniz)
+- [Github](https://github.com/artdiniz)
+- [Linkedin](https://www.linkedin.com/in/artur-diniz-adam-13286825/)
+Amanda Almeida
+- [Twitter](https://www.instagram.com/theamandaalmeida/)
