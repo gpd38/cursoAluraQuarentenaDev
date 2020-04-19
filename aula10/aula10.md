@@ -1,0 +1,2 @@
+- Completando o certificado
+- Aprendendo sobre arrays
