@@ -18,7 +18,7 @@ Aula|Dia
 09|09/04/20
 10|10/04/20
 
-### Links dos metriais no alura
+### Links dos materiais no alura
 Não se sabe se as aulas permanecerão por muito tempo no ar, mas enquanto estiverem o link estará disponível aqui !
 
 - [Material Aula01](https://www.alura.com.br/quarentenadev/aula01-javascript)
