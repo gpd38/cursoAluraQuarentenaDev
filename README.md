@@ -49,7 +49,7 @@ Não se sabe se as aulas permanecerão por muito tempo no ar, mas enquanto estiv
 ### Fórum (Material/Geral/Dúvidas/Resultado)
 - [Fórum de discussão - DiscordApp](https://discordapp.com/invite/DMyxFDj)
 
-### Links comentados durantes as aulas
+### Links comentados durante as aulas
 - [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 - [HTML: Linguagem de Marcação de Hipertexto](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 - [CSS básico](https://developer.mozilla.org/pt-BR/docs/Aprender/Getting_started_with_the_web/CSS_basico)
