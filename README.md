@@ -61,6 +61,7 @@ Não se sabe se as aulas permanecerão por muito tempo no ar, mas enquanto estiv
 - [Playlist respondendo dúvidas de iniciantes](https://www.youtube.com/playlist?list=PLh2Y_pKOa4UcBRWcWAEp4d4M7INLCec1f)
 - [Canal do Mário onde ele ensina muito código JavaScript](https://www.youtube.com/playlist?list=PLh2Y_pKOa4UfsZfAT5ylSsbcEjpguxoBI)
 - [Apostila de Desenvolvimento Web da Caelum](https://www.caelum.com.br/apostila-html-css-javascript/)
+- [Lib utilizada no certificado](https://caelum.github.io/quarentenadev/libCertificado.js)
 
 ### Informações sobre os palestrantes/participantes
 Paulo Silveira
