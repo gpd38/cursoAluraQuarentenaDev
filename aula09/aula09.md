@@ -1,0 +1,2 @@
+- Atualizando app de calculo de distância
+- Desafio: usar input ao invés de prompt
