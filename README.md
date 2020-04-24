@@ -68,17 +68,21 @@ Paulo Silveira
 - [Twitter](https://twitter.com/paulo_caelum)
 - [Github](https://github.com/peas)
 - [Linkedin](https://www.linkedin.com/in/paulosilveira/)
+
 Mario Souto
 - [Twitter](https://twitter.com/omariosouto)
 - [Github](https://github.com/omariosouto)
 - [Linkedin](https://www.linkedin.com/in/omariosouto/)
+
 Vanessa Tonini
 - [Twitter](https://twitter.com/vanessametonini)
 - [Github](https://github.com/vanessametonini)
 - [Linkedin](https://www.linkedin.com/in/vanessametonini/)
+
 Artur Diniz
 - [Twitter](https://twitter.com/artdiniz)
 - [Github](https://github.com/artdiniz)
 - [Linkedin](https://www.linkedin.com/in/artur-diniz-adam-13286825/)
+
 Amanda Almeida
 - [Twitter](https://www.instagram.com/theamandaalmeida/)
