@@ -1,0 +1,1 @@
+setTimeout(function(){var containers=document.querySelectorAll('.elasticMedia-container[data-src]');for(var i=0;i<containers.length;i++){var src=containers[i].getAttribute('data-src');if(src.includes("vimeo")){containers[i].innerHTML='<iframe class="elasticMedia" src="'+src+'" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>'}}},500)
