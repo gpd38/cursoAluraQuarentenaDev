@@ -32,6 +32,8 @@ Não se sabe se as aulas permanecerão por muito tempo no ar, mas enquanto estiv
 - [Material Aula09](https://www.alura.com.br/quarentenadev/aula09-inputs-e-retorno-de-funcao)
 - [Material Aula10](https://www.alura.com.br/quarentenadev/aula10-completando-o-certificado-e-curriculo)
 
+OBS.: Os html's estão armazenados dentro da pasta [site_quarentena_dev](https://github.com/gpd38/cursoAluraQuarentenaDev/tree/master/site_quarentena_dev) dentro deste projeto.
+
 ### Links das vídeo aulas
 - [Aula 01 - Seu primeiro código](https://www.youtube.com/watch?v=wtbgwcMrkQg&feature=emb_logo)
 - [Aula 02 - Capturando Informações e Variáveis!](https://www.youtube.com/watch?v=n50RdpLtsEo&feature=emb_logo)
@@ -45,6 +47,8 @@ Não se sabe se as aulas permanecerão por muito tempo no ar, mas enquanto estiv
 - [Aula 10 - Arrays, Desafios e o Certificado](https://www.youtube.com/watch?v=5yTQRs8vrlI&feature=emb_logo)
 - [Conversa com CTO da Magalu](https://www.youtube.com/watch?v=XS4yrO9us9w&feature=youtu.be&utm_campaign=alura__live_01_-_cto_magazineluiza&utm_medium=email&utm_source=RD+Station)
 - [Conversa com CTO do Nubank](https://www.youtube.com/watch?v=vBTy3A7eyKY&feature=youtu.be&utm_campaign=alura__live_02_-_gestao_de_pessoas_nubank_-_quarentenadev&utm_medium=email&utm_source=RD+Station)
+
+OBS.: Os vídeos do curso não foram inseridos neste projeto por serem muito grandes. [Link alternativo para as vídeo aulas](#).
 
 ### Fórum (Material/Geral/Dúvidas/Resultado)
 - [Fórum de discussão - DiscordApp](https://discordapp.com/invite/DMyxFDj)
