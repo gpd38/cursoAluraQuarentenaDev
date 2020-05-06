@@ -2,7 +2,7 @@
 Série de vídeo aulas da alura sobre javascript durante a quarentena do COVID-19
 
 ### Codepen.io
-[Meu Codepen - gpd38](https://codepen.io/gpd38/pens/public?grid_type=list)
+[Meu Codepen - gpd38](https://codepen.io/gpd38/pens/public?grid_type=list){:target="_blank"}
 
 ### Dias de publicação das aulas
 Aula|Dia
@@ -48,7 +48,7 @@ OBS.: Os html's estão armazenados dentro da pasta [site_quarentena_dev](https:/
 - [Conversa com CTO da Magalu](https://www.youtube.com/watch?v=XS4yrO9us9w&feature=youtu.be&utm_campaign=alura__live_01_-_cto_magazineluiza&utm_medium=email&utm_source=RD+Station)
 - [Conversa com CTO do Nubank](https://www.youtube.com/watch?v=vBTy3A7eyKY&feature=youtu.be&utm_campaign=alura__live_02_-_gestao_de_pessoas_nubank_-_quarentenadev&utm_medium=email&utm_source=RD+Station)
 
-OBS.: Os vídeos do curso não foram inseridos neste projeto por serem muito grandes. [Link alternativo para as vídeo aulas](#).
+OBS.: Os vídeos do curso não foram inseridos neste projeto por serem muito grandes. [Link alternativo para as vídeo aulas](https://www.youtube.com/playlist?list=PLwU16M9hDJkOW4txFmp8d2mBydfQIf0-3).
 
 ### Fórum (Material/Geral/Dúvidas/Resultado)
 - [Fórum de discussão - DiscordApp](https://discordapp.com/invite/DMyxFDj)
