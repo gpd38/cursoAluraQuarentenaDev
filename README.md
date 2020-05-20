@@ -2,7 +2,7 @@
 Série de vídeo aulas da alura sobre javascript durante a quarentena do COVID-19
 
 ### Codepen.io
-[Meu Codepen - gpd38](https://codepen.io/gpd38/pens/public?grid_type=list){:target="_blank"}
+[Meu Codepen - gpd38](https://codepen.io/gpd38/pens/public?grid_type=list)
 
 ### Dias de publicação das aulas
 Aula|Dia
